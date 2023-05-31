@@ -15,13 +15,13 @@ This script `configure_php.sh` modifies the `php.ini` files for all installed PH
 2. **Make the script executable:**
 
     ```bash
-    chmod +x configure_php.sh
+    chmod +x plesk-php-ini.sh
     ```
 
 3. **Run the script as root:**
 
     ```bash
-    sudo ./configure_php.sh
+    sudo ./plesk-php-ini.sh
     ```
 
 ---
